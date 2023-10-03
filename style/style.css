@@ -1,0 +1,17 @@
+body{
+    background-image: url(./fondo2.png);
+}
+h1{
+    color: purple;
+    background-color: rgba(0, 255, 255, 0.609);
+    text-align: center;
+
+}
+div{
+   height: 200px;
+    background-image: url(./banner2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
